@@ -6,15 +6,19 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albirrkarim)
 [<img src="https://img.shields.io/badge/Email-d54b3e?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:albirkarim1@gmail.com)
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/mfarchana/mfarchana?style=for-the-badge ) -->
-
+ <!-- <img src="https://komarev.com/ghpvc/?username=albirrkarim"> -->
 </div>
 
+<div>
+  <img align="left" width="50%" height="165" src="https://github-readme-stats.vercel.app/api?username=albirrkarim&show_icons=true&hide_border=false&line_height=20&icon_color=1b93c9&show_owner=true"/>
+  
+ <img align="right" width="40%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albirrkarim&hide=c%23)](https://github.com/anuraghazra/github-readme-stats"/>
+  
+</div>
 
-![Albirr's github stats](https://github-readme-stats.vercel.app/api?username=albirrkarim&count_private=true)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albirrkarim&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
 
- <img src="https://komarev.com/ghpvc/?username=albirrkarim">
 
 
 <!--
