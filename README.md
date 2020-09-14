@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+- 🔭 I’m currently working on web freelancer
+- 🌱 I’m currently learning data mining
+- 👯 I’m looking to collaborate on intelligence system research laboratorium
+- 💬 Ask me about website
+- 📫 How to reach me: ...
+
 <div align = "center">
 
 [<img src="https://img.shields.io/badge/albirrkarim-6fa5d1?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/albirrkarim/)
