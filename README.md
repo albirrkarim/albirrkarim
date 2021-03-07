@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web freelancer
-- 🌱 I’m currently learning data mining and react js
+- 🌱 I’m currently learning data mining, laravel and react js
 - 💬 Ask me about website
 - 📫 How to reach me :
 
