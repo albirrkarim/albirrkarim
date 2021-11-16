@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web freelancer
-- 🌱 I’m currently learning data mining, laravel and react js
-- 💬 Ask me about website
+- 🌱 I’m currently learning digital marketing and google analytics
 - 📫 How to reach me :
 
 <div align = "center">
