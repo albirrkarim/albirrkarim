@@ -15,8 +15,14 @@
 
 1. [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription)
 
+Phonetic transcription tools with react js for input, outputing, etc
 
 <img title="React Phonetic Transcription" alt="React Phonetic Transcription" src="https://user-images.githubusercontent.com/29292018/186837665-e0e1f889-7ba5-4f6c-90ba-7d9a5c07c8de.gif" style="width:300px" />
+
+
+2. [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed)
+
+Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
 
 #### Private
@@ -26,7 +32,7 @@
 Trying to optimize memory consumtion on self-hosted server
 
 
-2. [React Audio Recorder Pro](#)
+2. [React Audio Recorder Pro](#)(beta)
 
 Advanced React Component for Audio Recording. Features: Automatically remove silence time when recording, Smooth cut,
 
