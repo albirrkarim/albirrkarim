@@ -24,6 +24,8 @@ Phonetic transcription tools with react js for input, outputing, etc
 
 Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
+<img title="System architecture" alt="System architecture" src="https://github.com/albirrkarim/mozilla-hubs-installation-detailed/blob/main/docs_img/System_Overview.png" style="width:300px" />
+
 
 #### Private
 
