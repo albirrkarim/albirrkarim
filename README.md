@@ -27,6 +27,10 @@ Mozilla hubs installation, deploy on self-hosted server, system overview, how to
 
 #### Private
 
+I you want access to my private research you can send me a message via discord
+
+albirrkarim#8171
+
 1. [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization)
 
 Trying to optimize memory consumtion on self-hosted server
