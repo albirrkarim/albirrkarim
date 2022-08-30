@@ -35,7 +35,7 @@ albirrkarim#8171
 
 1. [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization)
 
-Trying to optimize memory consumtion on self-hosted server
+Trying to optimize memory consumtion on self-hosted server. Efficiency, Memory usage simulation, etc
 
 
 2. [React Audio Recorder Pro](#)(beta)
