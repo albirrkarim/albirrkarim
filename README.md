@@ -27,6 +27,10 @@ Mozilla hubs installation, deploy on self-hosted server, system overview, how to
 <img title="System architecture" alt="System architecture" src="https://github.com/albirrkarim/mozilla-hubs-installation-detailed/blob/main/docs_img/System_Overview.png" style="width:300px" />
 
 
+3. [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features)
+
+List of customizations I made, you want it?
+
 #### Private
 
 I you want access to my private research you can send me a message via discord
