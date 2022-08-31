@@ -35,7 +35,7 @@ List of customizations I made, you want it?
 
 #### Private
 
-I you want access to my private research you can send me a message via discord
+You want access to my private research you can send me a message via discord
 
 albirrkarim#8171
 
