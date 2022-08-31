@@ -19,7 +19,7 @@
 
 Phonetic transcription tools with react js for input, outputing, etc
 
-<img title="React Phonetic Transcription" alt="React Phonetic Transcription" src="https://user-images.githubusercontent.com/29292018/186837665-e0e1f889-7ba5-4f6c-90ba-7d9a5c07c8de.gif" style="width:300px" />
+<img title="React Phonetic Transcription" alt="React Phonetic Transcription" src="https://user-images.githubusercontent.com/29292018/186837665-e0e1f889-7ba5-4f6c-90ba-7d9a5c07c8de.gif" style="width:400px" />
 
 
 2. [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed)
@@ -48,7 +48,7 @@ Trying to optimize memory consumtion on self-hosted server. Efficiency, Memory u
 
 Advanced React Component for Audio Recording. Features: Automatically remove silence time when recording, Smooth cut.
 
-<img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:400px" />
+<img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:500px" />
 
 <div align = "center">
 
