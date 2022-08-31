@@ -44,9 +44,11 @@ albirrkarim#8171
 Trying to optimize memory consumtion on self-hosted server. Efficiency, Memory usage simulation, etc
 
 
-2. [React Audio Recorder Pro](#)(beta)
+2. React Voice Recorder (beta)
 
-Advanced React Component for Audio Recording. Features: Automatically remove silence time when recording, Smooth cut,
+Advanced React Component for Audio Recording. Features: Automatically remove silence time when recording, Smooth cut.
+
+<img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:300px" />
 
 <div align = "center">
 
