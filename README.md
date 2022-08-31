@@ -33,6 +33,10 @@ Mozilla hubs installation, deploy on self-hosted server, system overview, how to
 
 List of customizations I made, you want it?
 
+4. [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server)
+
+My personal journal about server maintenance
+
 #### Private
 
 You want access to my private research you can send me a message via discord
