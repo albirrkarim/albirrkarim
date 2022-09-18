@@ -15,42 +15,31 @@
 
 #### Public
 
-1. [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription)
-
-Phonetic transcription tools with react js for input, outputing, etc
+1. [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
 
 <img title="React Phonetic Transcription" alt="React Phonetic Transcription" src="https://user-images.githubusercontent.com/29292018/186837665-e0e1f889-7ba5-4f6c-90ba-7d9a5c07c8de.gif" style="width:400px" />
 
 
-2. [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed)
-
-Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
+2. [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
 <img title="System architecture" alt="System architecture" src="https://github.com/albirrkarim/mozilla-hubs-installation-detailed/blob/main/docs_img/System_Overview.png" style="width:500px" />
 
 
-3. [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features)
+3. [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, you want it?
 
-List of customizations I made, you want it?
-
-4. [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server)
-
-My personal journal about server maintenance
+4. [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server), My personal journal about server maintenance
 
 #### Private
 
-You want access to my private research you can send me a message via discord
+You want access to my private research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
 
-albirrkarim#8171
+Send me a message via discord: albirrkarim#8171
 
-1. [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization)
+1. [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel Integration & Material UI React Component Tool Kit for Customizing Mozilla Hubs
 
-Trying to optimize memory consumtion on self-hosted server. Efficiency, Memory usage simulation, etc
+2. [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Trying to optimize memory consumtion on self-hosted server. Efficiency, Memory usage simulation, etc
 
-
-2. React Voice Recorder (beta)
-
-Advanced React Component for Audio Recording. Features: Automatically remove silence time when recording, Smooth cut.
+3. React Voice Recorder (beta), Features: Automatically remove silence time when recording, Smooth cut.
 
 <img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:500px" />
 
