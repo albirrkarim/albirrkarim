@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working as freelancer
+- 🔭 I'm currently building my own company
 - 🌱 I’m currently learning digital marketing and google analytics
 
 
