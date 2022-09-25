@@ -17,17 +17,13 @@
 
 1. [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
 
-<img title="React Phonetic Transcription" alt="React Phonetic Transcription" src="https://user-images.githubusercontent.com/29292018/186837665-e0e1f889-7ba5-4f6c-90ba-7d9a5c07c8de.gif" style="width:400px" />
-
-
 2. [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
-
-<img title="System architecture" alt="System architecture" src="https://github.com/albirrkarim/mozilla-hubs-installation-detailed/blob/main/docs_img/System_Overview.png" style="width:500px" />
-
 
 3. [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, you want it?
 
 4. [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server), My personal journal about server maintenance
+
+5. [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 
 #### Private
 
