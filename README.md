@@ -19,8 +19,6 @@
 
 :book: [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
-:shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, you want it?
-
 :minidisc: [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server), My personal journal about server maintenance
 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
@@ -30,6 +28,8 @@
 You want access to my private research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
 
 Send me a message via discord: albirrkarim#8171
+
+:shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, you want it?
 
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel Integration & Material UI React Component Tool Kit for Customizing Mozilla Hubs
 
