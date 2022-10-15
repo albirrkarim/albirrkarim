@@ -33,7 +33,7 @@ Send me a message via discord: albirrkarim#8171
 
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel Integration & Material UI React Component Tool Kit for Customizing Mozilla Hubs
 
-:page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Memory efficiency, usage simulation, etc, on self-hosted server
+:page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, Memory efficiency, usage simulation, etc on self-hosted server
 
 :studio_microphone: React Voice Recorder (beta), Features: Automatically remove silence time when recording, Smooth cut.
 
