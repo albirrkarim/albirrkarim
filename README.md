@@ -23,6 +23,8 @@
 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 
+:rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic Background Gradient Based on Image with Javascript
+
 #### Private
 
 You want access to my private research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
