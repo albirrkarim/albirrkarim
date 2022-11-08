@@ -23,7 +23,7 @@
 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 
-:rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic Background Gradient Based on Image with Javascript
+:rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
 
 #### Private
 
@@ -33,11 +33,11 @@ Send me a message via discord: albirrkarim#8171
 
 :shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, you want it?
 
-:hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel Integration & Material UI React Component Tool Kit for Customizing Mozilla Hubs
+:hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
-:page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, Memory efficiency, usage simulation, etc on self-hosted server
+:page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, memory efficiency, usage simulation, etc on self-hosted server
 
-:studio_microphone: React Voice Recorder (beta), Features: Automatically remove silence time when recording, Smooth cut.
+:studio_microphone: React Voice Recorder (beta), Features: Automatically remove silence time when recording, smooth cut.
 
 <img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:500px" />
 
