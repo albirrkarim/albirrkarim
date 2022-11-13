@@ -31,7 +31,7 @@ Send me a message via discord: albirrkarim#8171
 
 :seedling: [My Research on Artificial Intelligence](https://github.com/albirrkarim/my-research-on-artificial-intelligence), My thesis projects, personal notes, overview, documentation.
 
-:shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, you want it?
+:shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made
 
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
