@@ -11,8 +11,6 @@
 
 ### My Research
 
-I give then i get more
-
 #### Public
 
 ##### - Journal
