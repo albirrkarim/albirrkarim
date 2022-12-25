@@ -2,13 +2,6 @@
 
 I'm currently building my own company
 
-### Support me
-
-<a href='https://paypal.me/AlbirrKarim' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://user-images.githubusercontent.com/29292018/186840848-65e25ff9-47e2-424b-bfa0-4ca5d027b346.png' border='0' alt='Donate via paypal' /></a>
-
-<a href='https://ko-fi.com/Q5Q0BC92X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-
 ### My Research
 
 #### Public
@@ -46,7 +39,18 @@ Send me a message via discord: albirrkarim#8171
 
 :studio_microphone: React Voice Recorder (beta), Features: Automatically remove silence time when recording, smooth cut.
 
+<details>
+  <summary>Show Image</summary>
+
 <img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:500px" />
+  
+</details>
+
+### Support me
+
+<a href='https://paypal.me/AlbirrKarim' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://user-images.githubusercontent.com/29292018/186840848-65e25ff9-47e2-424b-bfa0-4ca5d027b346.png' border='0' alt='Donate via paypal' /></a>
+
+<a href='https://ko-fi.com/Q5Q0BC92X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <div align = "center">
 
