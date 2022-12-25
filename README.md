@@ -11,9 +11,13 @@
 
 ### My Research
 
+I give then i get more
+
 #### Public
 
-:keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
+##### - Journal
+
+Sharing my learning checkpoint, experience, recomendation, approach.
 
 :book: [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
@@ -21,7 +25,12 @@
 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 
+##### - Development
+
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
+
+:keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
+
 
 #### Private
 
