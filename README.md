@@ -18,6 +18,8 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 ##### - Development
 
+:rocket: [State of The Art in Web Development](https://github.com/albirrkarim/web-sota), Latest development tools & methods, Yearly Trends
+
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
 
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
