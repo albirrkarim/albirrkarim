@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm currently building my own company
 
-### My Research
+## My Research
 
-#### Public
+### Public
 
 ##### - Journal
 
@@ -25,19 +25,13 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
 
 
-#### Private
+### Sponsor Only
 
-You want access to my private research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
+You want access to my research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
 
 Send me a message via discord: albirrkarim#8171
 
-:seedling: [My Research on Artificial Intelligence](https://github.com/albirrkarim/my-research-on-artificial-intelligence), My thesis projects, personal notes, overview, documentation.
-
-:shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, im not selling this
-
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
-
-:page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, memory efficiency, usage simulation, etc on self-hosted server
 
 :studio_microphone: React Voice Recorder (beta), Features: Automatically remove silence time when recording, smooth cut.
 
@@ -45,6 +39,19 @@ Send me a message via discord: albirrkarim#8171
   <summary>Show Image</summary>
 
 <img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:500px" />
+  
+</details>
+
+### Private
+
+<details>
+  <summary>Show more</summary>
+
+:seedling: [My Research on Artificial Intelligence](https://github.com/albirrkarim/my-research-on-artificial-intelligence), My thesis projects, personal notes, overview, documentation.
+
+:shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, im not selling this
+
+:page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, memory efficiency, usage simulation, etc on self-hosted server
   
 </details>
 
