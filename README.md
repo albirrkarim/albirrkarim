@@ -16,9 +16,9 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 
-##### - Development
+:rocket: [State of The Art in Web Development](https://github.com/albirrkarim/web-sota), Latest development tools & methods, yearly trends
 
-:rocket: [State of The Art in Web Development](https://github.com/albirrkarim/web-sota), Latest development tools & methods, Yearly Trends
+##### - Development
 
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
 
