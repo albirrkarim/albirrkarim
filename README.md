@@ -33,14 +33,7 @@ Send me a message via discord: albirrkarim#8171
 
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
-:studio_microphone: React Voice Recorder (beta), Features: Automatically remove silence time when recording, smooth cut.
-
-<details>
-  <summary>Show Image</summary>
-
-<img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:500px" />
-  
-</details>
+:book: [My Web Notes](https://github.com/albirrkarim/my-web-notes), My notes about web development
 
 ### Private
 
@@ -48,10 +41,19 @@ Send me a message via discord: albirrkarim#8171
   <summary>Show more</summary>
 
 :seedling: [My Research on Artificial Intelligence](https://github.com/albirrkarim/my-research-on-artificial-intelligence), My thesis projects, personal notes, overview, documentation.
-
+ 
 :shopping_cart: [Mozilla Hubs Custom Features](https://github.com/albirrkarim/mozilla-hubs-custom-features), List of customizations I made, im not selling this
 
 :page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, memory efficiency, usage simulation, etc on self-hosted server
+  
+  :studio_microphone: React Voice Recorder (beta), Features: Automatically remove silence time when recording, smooth cut.
+
+<details>
+  <summary>Show Image</summary>
+
+<img title="Cut audio" alt="cut audio" src="https://user-images.githubusercontent.com/29292018/187668769-3d6da3ad-fc6a-4459-82b9-c66b950d9076.jpeg" style="width:500px" />
+  
+</details>
   
 </details>
 
