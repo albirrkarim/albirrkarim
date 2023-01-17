@@ -31,11 +31,11 @@ You want access to my research you can become my [sponsors](https://github.com/s
 
 Send me a message via discord: albirrkarim#8171
 
+:speaking_head: [React Speech Highlight](https://albirrkarim.github.io/react-speech-highlight/), React component that use web speech synthesis API to text to speech task with also highlight the word and sentences that being spoken
+
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
 :book: [My Web Notes](https://github.com/albirrkarim/my-web-notes), My notes about web development
-
-:speaking_head: [React Speech Highlight](https://albirrkarim.github.io/react-speech-highlight/), React component that use web speech synthesis API to text to speech task with also highlight the word and sentences that being spoken
 
 ### Private
 
