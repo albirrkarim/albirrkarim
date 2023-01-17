@@ -35,6 +35,8 @@ Send me a message via discord: albirrkarim#8171
 
 :book: [My Web Notes](https://github.com/albirrkarim/my-web-notes), My notes about web development
 
+:speaking_head: [React Speech Highlight](https://albirrkarim.github.io/react-speech-highlight/), React component that use web speech synthesis API to text to speech task with also highlight the word and sentences that being spoken
+
 ### Private
 
 <details>
