@@ -31,7 +31,7 @@ You want access to my research you can become my [sponsors](https://github.com/s
 
 Send me a message via discord: albirrkarim#8171
 
-:speaking_head: [React Speech Highlight](https://albirrkarim.github.io/react-speech-highlight/), React component that use web speech synthesis API to text to speech task with also highlight the word and sentences that being spoken
+:speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React components that use web speech synthesis API to text-to-speech tasks and also highlight the word and sentences that are being spoken
 
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
