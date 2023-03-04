@@ -16,8 +16,6 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 
-:rocket: [State of The Art in Web Development](https://github.com/albirrkarim/web-sota), Latest development tools & methods, yearly trends
-
 ##### - Development
 
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
@@ -50,6 +48,8 @@ Send me a message via discord: albirrkarim#8171
 
 :page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, memory efficiency, usage simulation, etc on self-hosted server
   
+ :rocket: [State of The Art in Web Development](https://github.com/albirrkarim/web-sota), Latest development tools & methods, yearly trends
+
 
 </details>
 
