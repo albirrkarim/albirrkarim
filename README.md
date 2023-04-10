@@ -39,6 +39,8 @@ Send me a message via discord: albirrkarim#8171
 
 ### Private
 
+I don't share this
+
 <details>
   <summary>Show more</summary>
 
