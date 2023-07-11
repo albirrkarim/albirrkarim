@@ -22,12 +22,6 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
 
-##### - AI
-
-:framed_picture: [Conditional Matting 4](https://github.com/albirrkarim/conditional-matting-4), Conditional Matting 4 is a method to refine the results of object segmentation from the Segment Anything Model (SAM)
-
-
-
 
 ### Sponsor Only
 
