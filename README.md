@@ -31,11 +31,11 @@ Send me a message via discord: albirrkarim#8171
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React components that use web speech synthesis API to text-to-speech tasks and also highlight the word and sentences that are being spoken
 
-:studio_microphone: [React Voice Recorder PRO](https://github.com/albirrkarim/react-voice-recorder-pro-demo), Features: Automatically remove silence time when recording, smooth cut.
+<!-- :studio_microphone: [React Voice Recorder PRO](https://github.com/albirrkarim/react-voice-recorder-pro-demo), Features: Automatically remove silence time when recording, smooth cut.
 
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
-:book: [My Web Notes](https://github.com/albirrkarim/my-web-notes), My notes about web development
+:book: [My Web Notes](https://github.com/albirrkarim/my-web-notes), My notes about web development -->
 
 ### Private
 
