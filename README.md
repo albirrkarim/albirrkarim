@@ -22,6 +22,13 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
 
+<br/>
+
+### Future Project
+
+:accessibility: [GPT Web Guide](https://github.com/albirrkarim/GPT-Web-Guide-Docs), Imagine you have an AI that can act as guide in your website
+
+<br/>
 
 ### Sponsor Only
 
@@ -36,6 +43,8 @@ Send me a message via discord: albirrkarim#8171
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
 :book: [My Web Notes](https://github.com/albirrkarim/my-web-notes), My notes about web development -->
+
+<br/>
 
 ### Private
 
