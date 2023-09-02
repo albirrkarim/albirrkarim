@@ -46,6 +46,7 @@ Send me a message via discord: albirrkarim#8171
 
 <br/>
 
+<!--
 ### Private
 
 I don't share this
@@ -60,9 +61,9 @@ I don't share this
 :page_facing_up: [Mozilla Hubs Optimization](https://github.com/albirrkarim/mozilla-hubs-optimization), Optimize production build, memory efficiency, usage simulation, etc on self-hosted server
   
  :rocket: [State of The Art in Web Development](https://github.com/albirrkarim/web-sota), Latest development tools & methods, yearly trends
-
-
 </details>
+
+-->
 
 ### Support me
 <!--
