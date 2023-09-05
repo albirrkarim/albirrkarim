@@ -26,7 +26,7 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 ### Future Project
 
-:accessibility: [GPT Web Guide](https://github.com/albirrkarim/GPT-Web-Guide-Docs), Imagine you have an AI that can act as guide in your website
+:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs), Imagine you have an AI that can act as guide in your website
 
 <br/>
 
