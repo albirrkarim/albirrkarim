@@ -20,13 +20,13 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
 
-:keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputing, etc
+:keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputting, etc
 
 <br/>
 
 ### Future Project
 
-:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs), Imagine you have an AI that can act as guide in your website
+:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
 <br/>
 
