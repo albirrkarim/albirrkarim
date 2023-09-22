@@ -26,7 +26,7 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 ### Future Project
 
-:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
+:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
 <br/>
 
