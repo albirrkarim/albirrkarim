@@ -4,11 +4,11 @@ I'm currently building my own company
 
 ## My Research
 
-### Public
+### A. Public
 
-##### - Journal
+##### - Notes
 
-Sharing my learning checkpoint, experience, recomendation, approach.
+Sharing my learning checkpoint, experience, recommendation, and approach.
 
 :book: [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
@@ -16,7 +16,7 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 
-##### - Development
+##### - NPM Package
 
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
 
@@ -24,17 +24,19 @@ Sharing my learning checkpoint, experience, recomendation, approach.
 
 <br/>
 
-### Future Project
+### B. Future Project
 
-:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
+Some interesting project that i want to do.
+
+:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
 <br/>
 
-### Sponsor Only
+### C. Sponsor Only
 
 You want access to my research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
 
-Send me a message via discord: albirrkarim#8171
+Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/884043164908929034)
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech and highlighting the words and sentences that are being spoken using web speech synthesis API.
 
@@ -65,14 +67,17 @@ I don't share this
 
 -->
 
-### Support me
-<!--
-<a href='https://paypal.me/AlbirrKarim' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://user-images.githubusercontent.com/29292018/186840848-65e25ff9-47e2-424b-bfa0-4ca5d027b346.png' border='0' alt='Donate via paypal' /></a>
- -->
+## Support me
+
+Thanks a lot for your support, it means a lot to me.
  
 <a href='https://ko-fi.com/Q5Q0BC92X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <a href="https://trakteer.id/albirrkarim" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-2.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+<!--
+<a href='https://paypal.me/AlbirrKarim' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://user-images.githubusercontent.com/29292018/186840848-65e25ff9-47e2-424b-bfa0-4ca5d027b346.png' border='0' alt='Donate via paypal' /></a>
+ -->
 
 <div align = "center">
 
