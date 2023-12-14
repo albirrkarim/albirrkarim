@@ -22,9 +22,13 @@ Sharing my learning checkpoint, experience, recommendation, and approach.
 
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputting, etc
 
+### B. My Recommendation
+
+:book: [My Device Recommendation For Software Engineer](https://github.com/albirrkarim/best-devices-for-software-engineer), Best laptop, tablet, smartphone, and devices for software engineer (Web developer, AI, Web XR)
+
 <br/>
 
-### B. Future Project
+### C. Future Project
 
 Some interesting project that i want to do.
 
@@ -32,7 +36,7 @@ Some interesting project that i want to do.
 
 <br/>
 
-### C. Sponsor Only
+### D. Sponsor Only
 
 You want access to my research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
 
