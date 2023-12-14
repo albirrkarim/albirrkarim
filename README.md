@@ -22,6 +22,8 @@ Sharing my learning checkpoint, experience, recommendation, and approach.
 
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputting, etc
 
+<br/>
+
 ### B. My Recommendation
 
 :book: [My Device Recommendation For Software Engineer](https://github.com/albirrkarim/best-devices-for-software-engineer), Best laptop, tablet, smartphone, and devices for software engineer (Web developer, AI, Web XR)
