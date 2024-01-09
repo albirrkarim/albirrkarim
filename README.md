@@ -44,7 +44,7 @@ You want access to my research you can become my [sponsors](https://github.com/s
 
 Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/884043164908929034)
 
-:speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech and highlighting the words and sentences that are being spoken using web speech synthesis API.
+:speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
 <!-- :studio_microphone: [React Voice Recorder PRO](https://github.com/albirrkarim/react-voice-recorder-pro-demo), Features: Automatically remove silence time when recording, smooth cut.
 
