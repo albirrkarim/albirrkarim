@@ -46,6 +46,9 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
+
+:link: [Product Rank Tracker](https://github.com/albirrkarim/product-rank-tracker) Track your product ranking in Google, with product link and listed keywords you want to target (watch) no server is required, just with your PC.
+
 <!-- :studio_microphone: [React Voice Recorder PRO](https://github.com/albirrkarim/react-voice-recorder-pro-demo), Features: Automatically remove silence time when recording, smooth cut.
 
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
