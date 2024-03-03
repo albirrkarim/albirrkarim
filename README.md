@@ -28,9 +28,11 @@ Sharing my learning checkpoint, experience, recommendation, and approach.
 
 <br/>
 
+<!-- 
 ### B. My Recommendation
 
 :book: [My Device Recommendation For Software Engineer](https://github.com/albirrkarim/best-devices-for-software-engineer), Best laptop, tablet, smartphone, and devices for software engineer (Web developer, AI, Web XR)
+
 
 <br/>
 
@@ -40,9 +42,11 @@ Some interesting project that i want to do.
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
+-->
+
 <br/>
 
-### D. Sponsor Only
+### B. Sponsor Only
 
 You want access to my research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
 
@@ -50,8 +54,9 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
+:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. It can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
-:link: [Product Rank Tracker](https://github.com/albirrkarim/product-rank-tracker) Track your product ranking in Google, with product link and listed keywords you want to target (watch) no server is required, just with your PC.
+:link: [Product Rank Tracker](https://github.com/albirrkarim/product-rank-tracker) This Simple program tracks your product ranking in Google, with product link and listed keywords you want to target (watch) no server is required, just with your PC.
 
 <!-- :studio_microphone: [React Voice Recorder PRO](https://github.com/albirrkarim/react-voice-recorder-pro-demo), Features: Automatically remove silence time when recording, smooth cut.
 
