@@ -54,6 +54,8 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
+:star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro), Premium toolkit designed for full-stack web development, offering a streamlined approach to integrating Laravel with React. It includes updated dependencies, best practices, and security implementations, making it suitable for developers at any level looking for a reliable project foundation.
+
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. It can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
 :link: [Product Rank Tracker](https://github.com/albirrkarim/product-rank-tracker) This Simple program tracks your product ranking in Google, with product link and listed keywords you want to target (watch) no server is required, just with your PC.
