@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently building my own company
+<!-- I'm currently building my own company -->
 
 ## My Research
 
