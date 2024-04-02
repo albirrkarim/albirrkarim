@@ -118,7 +118,7 @@ Thanks a lot for your support, it means a lot to me.
 <div>
   <img align="left" width="450" class='maximal' src="https://github-readme-stats.vercel.app/api?username=albirrkarim&show_icons=true&hide_border=false&line_height=30&icon_color=1b93c9&show_owner=true&count_private=true&hide=contribs,prs"/>
   
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albirrkarim&hide=c%23&layout=compact&line_height=30)](https://github.com/anuraghazra/github-readme-stats"/>
+ <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albirrkarim&hide=c%23&layout=compact&line_height=30)](https://github.com/anuraghazra/github-readme-stats"/> -->
   
 </div>
 
