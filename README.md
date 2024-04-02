@@ -52,11 +52,12 @@ You want access to my research you can become my [sponsors](https://github.com/s
 
 Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/884043164908929034)
 
-![Text To Speech Javascript](https://github.com/albirrkarim/albirrkarim/assets/29292018/e0235546-a711-40d2-a715-801588b6abf1)
+[![Text To Speech Javascript](https://github.com/albirrkarim/albirrkarim/assets/29292018/e0235546-a711-40d2-a715-801588b6abf1)](https://github.com/albirrkarim/react-speech-highlight-demo)
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
-![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)
+[![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)](https://github.com/albirrkarim/laravel-react-starter-kit-pro)
+
 :star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro), Premium toolkit designed for full-stack web development, offering a streamlined approach to integrating Laravel with React. It includes updated dependencies, best practices, and security implementations, making it suitable for developers at any level looking for a reliable project foundation.
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. It can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
