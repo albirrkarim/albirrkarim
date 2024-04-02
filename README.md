@@ -52,6 +52,8 @@ You want access to my research you can become my [sponsors](https://github.com/s
 
 Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/884043164908929034)
 
+![Banner (1)](https://github.com/albirrkarim/albirrkarim/assets/29292018/465b4c16-ab77-4844-b7ba-1ef9e4f736d5)
+
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
 ![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)
