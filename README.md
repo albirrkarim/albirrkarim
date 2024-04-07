@@ -60,7 +60,7 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 [![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)](https://github.com/albirrkarim/laravel-react-starter-kit-pro)
 
-:star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro), Premium toolkit designed for full-stack web development, offering a streamlined approach to integrating Laravel with React. It includes updated dependencies, best practices, and security implementations, making it suitable for developers at any level looking for a reliable project foundation.
+:star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro), A solid and efficient project foundation for laravel and react full stack development.
 
 <br/>
 
