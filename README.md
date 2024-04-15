@@ -109,9 +109,18 @@ Thanks a lot for your support, it means a lot to me.
 
 <a href="https://trakteer.id/albirrkarim" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-2.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
-<a href="https://github.com/sponsors/albirrkarim" class="sponsor">
+<a href="https://github.com/sponsors/albirrkarim" title="Github Sponsors">
     <img src="https://github.com/albirrkarim/laravel-react-starter-kit-pro/assets/29292018/00e008ed-8d31-4b4c-a54d-a53ac62d9f91" width="350em">
 </a>
+
+<br/>
+<br/>
+
+<a href="https://wise.com/pay/me/albirrkarims" title="Wise Payment">
+    <img src="https://github.com/albirrkarim/albirrkarim/assets/29292018/7a5fba67-9ec0-4401-b65b-780306128e87" title="@albirrkarims-wisetag" width="200em">
+</a>
+
+
 
 <br>
 <br>
