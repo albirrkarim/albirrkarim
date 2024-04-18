@@ -38,7 +38,7 @@ Sharing my learning checkpoint, experience, recommendation, and approach.
 
 ### C. Future Project
 
-Some interesting project that i want to do.
+Some interesting projects that I want to do.
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
@@ -64,7 +64,7 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 <br/>
 
-[![React GPT Web Guide](https://github.com/albirrkarim/albirrkarim/assets/29292018/ca345b96-d5e8-43b2-b1e8-583d4293f282)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
+[![React GPT Web Guide](https://github.com/albirrkarim/albirrkarim/assets/29292018/59b56591-8fac-4dcb-90f7-60077435ea90)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. It can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
