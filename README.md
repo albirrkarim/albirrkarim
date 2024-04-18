@@ -66,7 +66,7 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 [![React GPT Web Guide](https://github.com/albirrkarim/albirrkarim/assets/29292018/59b56591-8fac-4dcb-90f7-60077435ea90)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
 
-:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. It can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
+:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Interactable AI 3D Avatar that has control over your frontend website
 
 <br/>
 
