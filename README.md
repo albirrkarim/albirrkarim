@@ -103,7 +103,7 @@ I don't share this
 
 ## Support me
 
-Thanks a lot for your support, it means a lot to me.
+Thanks a lot for your support.
  
 <a href='https://ko-fi.com/Q5Q0BC92X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
