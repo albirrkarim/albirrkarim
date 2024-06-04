@@ -58,15 +58,15 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 <br/>
 
-[![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)](https://github.com/albirrkarim/laravel-react-starter-kit-pro)
-
-:star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro) (Beta) (Pending), A solid and efficient project foundation for laravel and react full stack development.
-
-<br/>
-
 [![React GPT Web Guide](https://github.com/albirrkarim/albirrkarim/assets/29292018/59b56591-8fac-4dcb-90f7-60077435ea90)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Interactable AI 3D Avatar that has control over your frontend website
+
+<br/>Ï
+
+[![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)](https://github.com/albirrkarim/laravel-react-starter-kit-pro)
+
+:star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro) (Beta) (Pending), A solid and efficient project foundation for laravel and react full stack development.
 
 <!--
 
