@@ -52,7 +52,7 @@ You want access to my research you can become my [sponsors](https://github.com/s
 
 Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/884043164908929034)
 
-[![Text To Speech Javascript](https://github.com/albirrkarim/albirrkarim/assets/29292018/36b5652f-b42b-4c93-9e68-e76001a0e194)](https://github.com/albirrkarim/react-speech-highlight-demo)
+[![Text To Speech Javascript](https://raw.githubusercontent.com/albirrkarim/react-speech-highlight-demo/main/img/banner.png)](https://github.com/albirrkarim/react-speech-highlight-demo)
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
