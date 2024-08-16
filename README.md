@@ -64,9 +64,11 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 <br/>
 
+<!--
 [![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)](https://github.com/albirrkarim/laravel-react-starter-kit-pro)
 
-:star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro) (Beta) (Pending), A solid and efficient project foundation for laravel and react full stack development.
+
+:star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro) (Beta) (Pending), A solid and efficient project foundation for laravel and react full stack development. -->
 
 <!--
 
