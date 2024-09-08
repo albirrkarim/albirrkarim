@@ -10,9 +10,11 @@
 
 Sharing my learning checkpoint, experience, recommendation, and approach.
 
-:book: [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
+- [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
-:minidisc: [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server), My personal journal about server maintenance
+- [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server), My personal journal about server maintenance
+
+- [How to make trusted web activity (simplified)](https://github.com/albirrkarim/twa-simplified), TWA is something like web view, but it's better than web view, here simple docs you can follow when you are not android developer (you are web dev)
 
 <!-- 
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
