@@ -20,9 +20,9 @@ Sharing my learning checkpoint, experience, recommendation, and approach.
 :bookmark_tabs: [Simple Laravel Tutorial](https://github.com/albirrkarim/simple-laravel-tutorial), About installing on local and laravel + nginx on server
 -->
 
-##### - NPM Package
-
 <!-- 
+
+##### - NPM Package
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputting, etc
 -->
