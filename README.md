@@ -24,9 +24,8 @@ Sharing my learning checkpoint, experience, recommendation, and approach.
 
 <!-- 
 :rainbow: [Dynamic Background Gradient](https://github.com/albirrkarim/dynamic-background-gradient), Dynamic background gradient based on image with javascript
--->
-
 :keyboard: [React Phonetic Transcription](https://github.com/albirrkarim/react-phonetic-transcription), Phonetic transcription tools with react js for input, outputting, etc
+-->
 
 <br/>
 
