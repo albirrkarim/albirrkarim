@@ -67,7 +67,7 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 <br/>
 
-[Auto Quality Asurance](https://github.com/albirrkarim/auto-quality-asurance) - Something that make sure your web 100% quality, deep dead link check, interaction brute forcer, no need to write test code /test case, get quality report, get confidence to submit your website to google webmaster, it just work it just good, etc... with just one terminal commmand.
+[Auto Quality Asurance](https://github.com/albirrkarim/auto-quality-asurance) - Something that makes sure your web 100% quality, deep dead link check, interaction brute forcer, no need to write test code /test case, real browser runtime test, gets quality report, get confidence to submit your website to google webmaster / your user, it just works it just good **with just one terminal command**.
 
 <br/>
 
