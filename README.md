@@ -65,6 +65,12 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 <br/>
 
+<br/>
+
+[Auto Quality Asurance](https://github.com/albirrkarim/auto-quality-asurance) - Something that make sure your web 100% quality, deep dead link check, interaction brute forcer, no need to write test code /test case, get quality report, get confidence to submit your website to google webmaster, it just work it just good, etc... with just one terminal commmand.
+
+<br/>
+
 <!--
 [![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)](https://github.com/albirrkarim/laravel-react-starter-kit-pro)
 
