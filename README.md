@@ -67,7 +67,7 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 <br/>
 
-:dart: [Auto Quality Asurance](https://github.com/albirrkarim/auto-quality-assurance-demo) - Something that makes sure your web 100% quality, deep dead link check, interaction brute forcer, no need to write test code /test case, real browser runtime test, gets quality report, get confidence to submit your website to google webmaster / your user, it just works it just good **with just one terminal command**.
+:dart: [Auto Quality Assurance](https://github.com/albirrkarim/auto-quality-assurance-demo) - Something that makes sure your web 100% quality, deep dead link check, interaction brute forcer, no need to write test code /test case, real browser runtime test, gets quality report, get confidence to submit your website to google webmaster / your user, it just works it just good **with just one terminal command**.
 
 <br/>
 
