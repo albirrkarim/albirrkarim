@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-- I'm currently building my own company -->
+Delivering innovative solutions, workflow optimization, and actionable insights to solve complex challenges and achieve goals with technology.
 
 ## My Research
 
