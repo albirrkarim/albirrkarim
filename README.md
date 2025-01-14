@@ -2,7 +2,11 @@
 
 Delivering innovative solutions, optimizing workflows, and providing actionable insights to solve complex challenges and achieve goals using technology.
 
-Looking to enhance your projects with cutting-edge Web XR, AI, or automation? Contact me to discuss collaboration opportunities.
+<br/>
+
+Looking to enhance your projects with cutting-edge Web XR, AI, or automation? 
+
+Contact me to discuss collaboration opportunities.
 
 Discord Username: albirrkarim
 
