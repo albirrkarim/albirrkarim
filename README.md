@@ -2,6 +2,8 @@
 
 Delivering innovative solutions, workflow optimization, and actionable insights to solve complex challenges and achieve goals with technology.
 
+<br/>
+
 ## My Research
 
 ### A. Public
