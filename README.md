@@ -63,7 +63,7 @@ Some interesting projects that I want to do.
 
 ### B. Sponsor Only
 
-You want access to my research you can become my [sponsors](https://github.com/sponsors/albirrkarim). 
+Unlock exclusive insights and advanced guides by [becoming a sponsor](https://github.com/sponsors/albirrkarim). 
 
 Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/884043164908929034)
 
