@@ -45,6 +45,8 @@ Some interesting projects that I want to do.
 
 -->
 
+
+
 <br/>
 
 ### B. Sponsor Only
@@ -62,8 +64,6 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 [![React GPT Web Guide](https://raw.githubusercontent.com/albirrkarim/react-gpt-web-guide-docs/main/img/banner.png)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
-
-
 
 <br/>
 
@@ -113,6 +113,8 @@ I don't share this
 
 -->
 
+<!-- 
+
 ## Support me
 
 Thanks a lot for your support.
@@ -126,27 +128,24 @@ Thanks a lot for your support.
 </a>
 
 <br>
-<br>
+<be>
+
+-->
 
 <!--
 <a href='https://paypal.me/AlbirrKarim' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://user-images.githubusercontent.com/29292018/186840848-65e25ff9-47e2-424b-bfa0-4ca5d027b346.png' border='0' alt='Donate via paypal' /></a>
  -->
 
-<div align = "center">
-
-<!-- [<img src="https://img.shields.io/badge/albirrkarim-6fa5d1?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/albirrkarim/) -->
-<!-- [<img src="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/>](https://albirrkarim.github.io/) -->
-  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albirrkarim)
-
-</div>
-
+ <!-- 
+ 
 <div>
   <img align="left" width="450" class='maximal' src="https://github-readme-stats.vercel.app/api?username=albirrkarim&show_icons=true&hide_border=false&line_height=30&icon_color=1b93c9&show_owner=true&count_private=true&hide=contribs,prs"/>
   
- <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albirrkarim&hide=c%23&layout=compact&line_height=30)](https://github.com/anuraghazra/github-readme-stats"/> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albirrkarim&hide=c%23&layout=compact&line_height=30)](https://github.com/anuraghazra/github-readme-stats"/> 
   
 </div>
+
+-->
 
 <!--
 **albirrkarim/albirrkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
