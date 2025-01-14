@@ -12,7 +12,11 @@ Sharing my learning checkpoint, experience, recommendation, and approach.
 
 - [Mozilla Hubs Installation Detailed](https://github.com/albirrkarim/mozilla-hubs-installation-detailed), Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc
 
+<!--
+
 - [How to Maintenance Server](https://github.com/albirrkarim/how-to-maintenance-server), My personal journal about server maintenance
+
+-->
 
 - [How to make trusted web activity (simplified)](https://github.com/albirrkarim/twa-simplified), TWA is something like web view, but it's better than web view, here simple docs you can follow when you are not android developer (you are web dev)
 
