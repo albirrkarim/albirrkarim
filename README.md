@@ -63,9 +63,7 @@ Some interesting projects that I want to do.
 
 ### B. Sponsor Only
 
-Unlock exclusive insights and advanced guides by [becoming a sponsor](https://github.com/sponsors/albirrkarim). 
-
-Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/884043164908929034)
+Unlock exclusive insights and advanced guides by [becoming a sponsor](https://github.com/sponsors/albirrkarim).
 
 [![Text To Speech Javascript](https://raw.githubusercontent.com/albirrkarim/react-speech-highlight-demo/main/img/banner.png)](https://github.com/albirrkarim/react-speech-highlight-demo)
 
