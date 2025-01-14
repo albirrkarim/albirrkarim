@@ -45,8 +45,6 @@ Some interesting projects that I want to do.
 
 -->
 
-
-
 <br/>
 
 ### B. Sponsor Only
@@ -65,22 +63,15 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
 
-<br/>
-
 <!--
-
-<br/>
 
 :dart: [Auto Quality Assurance](https://github.com/albirrkarim/auto-quality-assurance-demo) - Something that makes sure your web 100% quality, deep dead link check, interaction brute forcer, no need to write test code /test case, real browser runtime test, gets quality report, get confidence to submit your website to google webmaster / your user, it just works it just good **with just one terminal command**.
 
 [![Laravel React Starter Kit PRO Kit](https://github.com/albirrkarim/laravel-react-starter-kit-pro/blob/main/img/banner.png)](https://github.com/albirrkarim/laravel-react-starter-kit-pro)
 
-
 :star: [Laravel React Starter Kit PRO](https://github.com/albirrkarim/laravel-react-starter-kit-pro) (Beta) (Pending), A solid and efficient project foundation for laravel and react full stack development. -->
 
 <!--
-
-<br/>
 
 [![Product Rank Tracker](https://github.com/albirrkarim/albirrkarim/assets/29292018/baa5d2df-6c6d-405d-8ca3-d9e0759152c9)](https://github.com/albirrkarim/product-rank-tracker)
 
@@ -91,8 +82,6 @@ Send me a message via discord: @[albirrkarim](https://discord.com/channels/@me/8
 :hammer_and_wrench: [Hubs Kit](https://github.com/albirrkarim/hubs-kit), Laravel integration & material UI react component tool kit for customizing mozilla hubs
 
 :book: [My Web Notes](https://github.com/albirrkarim/my-web-notes), My notes about web development -->
-
-<br/>
 
 <!--
 ### Private
@@ -126,8 +115,6 @@ Thanks a lot for your support.
 <a href="https://github.com/sponsors/albirrkarim" title="Github Sponsors">
     <img src="https://github.com/albirrkarim/laravel-react-starter-kit-pro/assets/29292018/00e008ed-8d31-4b4c-a54d-a53ac62d9f91" width="350em">
 </a>
-
-<br>
 
 -->
 
