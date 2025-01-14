@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm
 
 Delivering innovative solutions, workflow optimization, and actionable insights to solve complex challenges and achieve goals with technology.
 
@@ -50,8 +50,6 @@ Some interesting projects that I want to do.
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta) (Pending), Imagine you have an AI that can act as a guide in your website. Can be used as AI Web Accessibility, Web Metaverse NPC, Conversational AI, etc.
 
 -->
-
-<br/>
 
 ### B. Sponsor Only
 
