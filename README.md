@@ -128,36 +128,9 @@ Thanks a lot for your support.
 </a>
 
 <br>
-<be>
 
 -->
 
 <!--
 <a href='https://paypal.me/AlbirrKarim' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://user-images.githubusercontent.com/29292018/186840848-65e25ff9-47e2-424b-bfa0-4ca5d027b346.png' border='0' alt='Donate via paypal' /></a>
  -->
-
- <!-- 
- 
-<div>
-  <img align="left" width="450" class='maximal' src="https://github-readme-stats.vercel.app/api?username=albirrkarim&show_icons=true&hide_border=false&line_height=30&icon_color=1b93c9&show_owner=true&count_private=true&hide=contribs,prs"/>
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albirrkarim&hide=c%23&layout=compact&line_height=30)](https://github.com/anuraghazra/github-readme-stats"/> 
-  
-</div>
-
--->
-
-<!--
-**albirrkarim/albirrkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
