@@ -5,6 +5,7 @@ Delivering innovative solutions, optimizing workflows, and providing actionable 
 Looking to enhance your projects with cutting-edge Web XR, AI, or automation? Contact me to discuss collaboration opportunities.
 
 Discord Username: albirrkarim
+
 Email: albirkarim1@gmail.com
 
 <br/>
