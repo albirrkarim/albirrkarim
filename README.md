@@ -1,6 +1,6 @@
 ## I'm
 
-Delivering innovative solutions, workflow optimization, and actionable insights to solve complex challenges and achieve goals with technology.
+Delivering innovative solutions, optimizing workflows, and providing actionable insights to solve complex challenges and achieve goals using technology.
 
 <br/>
 
