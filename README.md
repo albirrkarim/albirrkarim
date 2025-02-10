@@ -6,7 +6,7 @@ Delivering innovative solutions, optimizing workflows, and providing actionable 
 
 Looking to enhance your projects with cutting-edge Web XR, AI, or automation? 
 
-Contact me to discuss collaboration opportunities.
+Feel free contact me to discuss collaboration opportunities or just asking something. 
 
 Discord Username: albirrkarim
 
