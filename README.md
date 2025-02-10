@@ -10,7 +10,8 @@ Contact me to discuss collaboration opportunities.
 
 Discord Username: albirrkarim
 
-Email: albirkarim1@gmail.com
+Email 1: albirrkarim@gmail.com
+Email 2: albirkarim1@gmail.com
 
 <br/>
 
