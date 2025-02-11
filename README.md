@@ -10,9 +10,11 @@ Feel free contact me to discuss collaboration opportunities or just asking somet
 
 Discord Username: albirrkarim
 
-Email 1: albirrkarim@gmail.com
+Primary: albirrkarim@gmail.com
 
-Email 2: albirkarim1@gmail.com
+Secondary: 
+- albirkarim1@gmail.com
+- albirkarim2@gmail.com
 
 <br/>
 
