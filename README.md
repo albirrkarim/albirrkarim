@@ -65,9 +65,9 @@ Some interesting projects that I want to do.
 
 -->
 
-### B. Sponsor Only
+### B. Premium Tools
 
-Unlock exclusive insights and advanced guides by [🌟 **becoming a sponsor** 🌟](https://github.com/sponsors/albirrkarim)
+Highly premium software
 
 [![Text To Speech Javascript](https://raw.githubusercontent.com/albirrkarim/react-speech-highlight-demo/main/img/banner.png)](https://github.com/albirrkarim/react-speech-highlight-demo)
 
@@ -78,6 +78,14 @@ Unlock exclusive insights and advanced guides by [🌟 **becoming a sponsor** �
 [![React GPT Web Guide](https://raw.githubusercontent.com/albirrkarim/react-gpt-web-guide-docs/main/img/banner.png)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
+
+<br/>
+
+### C. Sponsorware
+
+Unlock developer tools related to Web XR, AI, Automation by [🌟 **becoming a monthly sponsor** 🌟](https://github.com/sponsors/albirrkarim)
+
+Coming soon
 
 <!--
 
