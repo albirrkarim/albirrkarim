@@ -75,17 +75,16 @@ Highly premium software
 
 <br/>
 
-[![React GPT Web Guide](https://raw.githubusercontent.com/albirrkarim/react-gpt-web-guide-docs/main/img/banner.png)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
-
-:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
-
-<br/>
-
 ### C. Sponsorware
 
 Unlock developer tools related to Web XR, AI, Automation by [🌟 **becoming a monthly sponsor** 🌟](https://github.com/sponsors/albirrkarim)
 
 Coming soon
+
+[![Agent Support](https://raw.githubusercontent.com/albirrkarim/react-gpt-web-guide-docs/main/img/banner.png)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
+
+:accessibility: [Agent Support](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
+
 
 <!--
 
