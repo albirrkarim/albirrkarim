@@ -16,6 +16,9 @@ Secondary:
 - albirkarim1@gmail.com
 - albirkarim2@gmail.com
 
+Online meeting with me started from $10 / 30 minutes
+[calendly.com/albirrkarim](https://calendly.com/albirrkarim)
+
 <br/>
 
 ## My Research
