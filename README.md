@@ -22,6 +22,10 @@ Consultation via online meeting with me start from $10 / 30 minutes
 
 <br/>
 
+<a href='https://ko-fi.com/Q5Q0BC92X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<br/>
+
 ## My Research
 
 ### A. Public
