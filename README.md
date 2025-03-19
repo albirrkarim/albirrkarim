@@ -87,7 +87,11 @@ Highly premium software
 
 Unlock developer tools related to Web XR, AI, Automation by [🌟 **becoming a monthly sponsor** 🌟](https://github.com/sponsors/albirrkarim)
 
+<!-- 
+
 [![Agent Support](https://raw.githubusercontent.com/albirrkarim/react-gpt-web-guide-docs/main/img/banner.png)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
+
+-->
 
 :accessibility: [Agent Support](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Coming soon), Interactable AI that can read and has control over your frontend website
 
