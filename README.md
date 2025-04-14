@@ -2,8 +2,6 @@
 
 ![Innovative tech solutions for workflow optimization and actionable insights](https://github.com/user-attachments/assets/416fc402-90ba-49d7-ba6e-43e29d4f2795)
 
-<br/>
-
 Looking to enhance your projects with cutting-edge Web XR, AI, or automation? 
 
 Feel free contact me to discuss collaboration opportunities or just asking something. 
