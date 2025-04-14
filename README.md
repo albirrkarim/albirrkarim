@@ -1,6 +1,6 @@
 ## I'm
 
-![Innovative tech solutions for workflow optimization and actionable insights](https://github.com/user-attachments/assets/7159327a-0abc-4f1e-a767-73905a1b0185)
+![Innovative tech solutions for workflow optimization and actionable insights](https://github.com/user-attachments/assets/6d42300d-28f2-4823-8e86-785e6b86c4d4)
 
 <br/>
 
