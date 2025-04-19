@@ -14,7 +14,7 @@ Secondary:
 - albirkarim1@gmail.com
 - albirkarim2@gmail.com
 
-Consultation via online meeting with me start from $30 / 30 minutes
+Consultation via online meeting with me start from $30 / hour
 
 [calendly.com/albirrkarim](https://calendly.com/albirrkarim)
 
