@@ -1,6 +1,7 @@
 ## I'm
 
-![Innovative tech solutions for workflow optimization and actionable insights](https://github.com/user-attachments/assets/416fc402-90ba-49d7-ba6e-43e29d4f2795)
+<img width="2112" height="586" alt="profile_github" src="https://github.com/user-attachments/assets/8cee8126-26be-441d-b412-7f630761572a" />
+
 
 ![](https://hit.yhype.me/github/profile?account_id=29292018)
 
