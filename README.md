@@ -27,6 +27,14 @@ Consultation via online meeting with me start from $20 / 30 minutes
 
 <br/>
 
+💖 Support / Pay with Crypto
+
+If you'd like to support my work, you can send USDT (BEP-20) on BNB Smart Chain (BSC) to the wallet below:
+
+0xF8BA49cf0AC64a0c905E7671E0a42C78C717DD2d
+
+<br/>
+
 ## My Research
 
 ### A. Public
