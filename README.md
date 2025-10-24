@@ -29,9 +29,20 @@ Consultation via online meeting with me start from $20 / 30 minutes
 
 💖 Support / Pay with Crypto
 
-If you'd like to support my work, you can send USDT (BEP-20) on BNB Smart Chain (BSC) to the wallet below:
+If you'd like to support my work, you can send to the wallet below:
+
+Accepting **USDT (BEP-20)** on **BNB Smart Chain (BSC)**  
+or **USDT (ERC-20)** on **Ethereum**  
+(Same wallet address)
 
 `0xF8BA49cf0AC64a0c905E7671E0a42C78C717DD2d`
+
+Eth Network
+![telegram-cloud-photo-size-5-6332096415533829202-x](https://github.com/user-attachments/assets/c8fd70ab-3283-47fe-b230-cfdd2e506dcc)
+
+BNB Network
+![telegram-cloud-photo-size-5-6332096415533829202-x](https://github.com/user-attachments/assets/6a13329e-5c61-4504-b6ce-1afb5f8785f7)
+
 
 <br/>
 
