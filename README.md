@@ -37,13 +37,8 @@ or **USDT (ERC-20)** on **Ethereum**
 
 `0xF8BA49cf0AC64a0c905E7671E0a42C78C717DD2d`
 
-Eth Network
-![telegram-cloud-photo-size-5-6332096415533829202-x](https://github.com/user-attachments/assets/c8fd70ab-3283-47fe-b230-cfdd2e506dcc)
-
-BNB Network
-![telegram-cloud-photo-size-5-6332096415533829202-x](https://github.com/user-attachments/assets/6a13329e-5c61-4504-b6ce-1afb5f8785f7)
-
-
+<strong>Ethereum Network</strong><br/>
+<img src="https://github.com/user-attachments/assets/c8fd70ab-3283-47fe-b230-cfdd2e506dcc" width="150" alt="Ethereum QR Code"><br/>
 <br/>
 
 ## My Research
