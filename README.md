@@ -37,7 +37,6 @@ or **USDT (ERC-20)** on **Ethereum**
 
 `0xF8BA49cf0AC64a0c905E7671E0a42C78C717DD2d`
 
-<strong>Ethereum Network</strong><br/>
 <img src="https://github.com/user-attachments/assets/c8fd70ab-3283-47fe-b230-cfdd2e506dcc" width="150" alt="Ethereum QR Code"><br/>
 <br/>
 
