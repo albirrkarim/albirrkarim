@@ -2,8 +2,10 @@
 
 <img width="2112" height="586" alt="Innovative tech solutions for workflow optimization and actionable insights" src="https://github.com/user-attachments/assets/92e9d881-cd34-4f95-9c95-58b7ecdfaaec" />
 
-
+<!--
 ![](https://hit.yhype.me/github/profile?account_id=29292018)
+-->
+
 
 Looking to enhance your projects with cutting-edge Web XR, AI, or automation? 
 
